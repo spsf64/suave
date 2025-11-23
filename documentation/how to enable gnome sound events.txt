@@ -1,0 +1,10 @@
+Open terminal and run these comands in the following order:
+
+gsettings set org.gnome.desktop.sound event-sounds true
+gsettings set org.gnome.desktop.sound theme-name 'suave'
+gsettings set org.gnome.desktop.sound input-feedback-sounds true  # Optional
+
+
+Open gnome-tweaks, goto sounds/system sound theme, select suave then reboot!
+
+
