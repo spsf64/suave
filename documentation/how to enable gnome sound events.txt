@@ -5,6 +5,6 @@ gsettings set org.gnome.desktop.sound theme-name 'simple'
 gsettings set org.gnome.desktop.sound input-feedback-sounds true  # Optional
 
 
-Open gnome-tweaks, goto sounds/system sound theme, select suave then reboot!
+Open gnome-tweaks, goto sounds/system sound theme, select "simple" then reboot!
 
 
